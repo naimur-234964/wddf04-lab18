@@ -1,0 +1,18 @@
+/* common styles start */
+body{
+    margin: 0;
+}
+.container-fluid{
+    width: 100%;
+    border: 1px solid red;
+}
+.container{
+    min-width: 400px;
+    max-width: 1300px;
+    border: 1px solid red;
+}
+/* common styles end */
+
+#topbar{
+    height: 40px;
+}
